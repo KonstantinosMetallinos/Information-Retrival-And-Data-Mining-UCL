@@ -1,0 +1,2 @@
+aNDCG for MMR with TF-IDF using lambda = 0.25
+a 	 | 	 K 	 | 	 NDCG@K

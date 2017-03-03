@@ -1,0 +1,2 @@
+aNDCG for Portfolio with TF-IDF using beta=4 
+a 	 | 	 K 	 | 	 NDCG@K
